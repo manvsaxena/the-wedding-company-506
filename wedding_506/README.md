@@ -138,7 +138,3 @@ For production deployment, consider using:
 - Implement rate limiting for authentication endpoints
 - Regularly update dependencies for security patches
 - Use proper CORS settings in production
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
